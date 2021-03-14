@@ -1,0 +1,20 @@
+﻿Teste de unidade só deve ter 1 assert?
+=======================================
+
+- Sim, na maioria dos casos
+  - você pode ser mais flexível
+  - não é um crime ter mais de um
+  - tem prós e contras, você precisa balancear
+  - de onde veio essa recomendação?
+  
+- Como funciona um teste?
+  - o que diz se é vermelho ou verde?
+
+- Por que é melhor só ter 1 assert por teste?
+  - o teste é como um console app comum
+  - exceptions sempre interrompem a execução de um programa
+
+- Quando eu posso furar essa regra?
+  - analise contextos, e não códigos
+  - exemplos
+    
